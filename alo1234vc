@@ -1,1 +1,1 @@
-https://apexhubeditor.vercel.app/api/raw?name=706OjkVzkzXGkcdsbD0lnbUDgQI3_alo1234vc
+loadstring(game:HttpGet("https://apexhubeditor.vercel.app/api/raw?name=706OjkVzkzXGkcdsbD0lnbUDgQI3_alo1234vc"))()
